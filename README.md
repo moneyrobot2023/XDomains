@@ -8,6 +8,6 @@ XDomains — это парсер свободных доменов, которы
 Главное чтобы DNS записи найденного домена и хостинга совпадали.
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/4kNvwp5CO4k/maxresdefault.jpg)](https://youtu.be/ocUFmSdOyFU?si=lDELV0j8r8gbul6u)
 
-[![IMAGE ALT TEXT HERE](https://sun9-20.userapi.com/impg/dsNi3zmN1NU-JZOh0HTkJoCnDVaV4zCo4OWr_A/OLKTXslA0w8.jpg)](https://youtu.be/dmtY5djrRzw?si=F5Z2H7kE-ubGVloy)
+
 
 ## купить XDomains https://t.me/fradddyrad
